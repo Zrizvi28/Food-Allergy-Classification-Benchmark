@@ -21,7 +21,7 @@ A properly cross-validated model using the nine DESeq2-significant genes perform
 These results do not demonstrate that EVA improves food allergy classification over conventional methods in this dataset.
 
 ## Takeaway:
-A pretrained immune foundation model did not provide a clear advantage over a simple classical baseline in this small food allergy classification task. Possible contributing factors include a weak allergy signal (considering this project evaluated rna-seq data from naive CD4 cells for a disease that is particularly heterogenous and lacks prominent biomarkers) and the small cohort size (n=48). The result illustrates why foundation models should be evaluated against strong conventional baselines rather than assumed to improve performance because of their complexity, specifically when it comes to food allergy or similar diseases and small cohorts.
+A pretrained immune foundation model did not provide a clear advantage over a simpler approach in this small food allergy classification task. Possible contributing factors include a weak allergy signal (considering this project evaluated rna-seq data from naive CD4 cells for a disease that is particularly heterogenous and lacks prominent biomarkers) and the small cohort size (n=48). The result illustrates why foundation models should be evaluated against strong conventional baselines rather than assumed to improve performance because of their complexity, specifically when it comes to food allergy or similar diseases and small cohorts.
 
 ## Status:
 Completed exploratory benchmark
