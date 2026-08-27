@@ -1,4 +1,4 @@
-# Food-allergy-classifier
+# Food Allergy Classification Benchmark
 
 Evaluating an immune transcriptomic foundation model for food allergy classification against conventional machine-learning baselines.
 
